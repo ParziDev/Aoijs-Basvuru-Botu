@@ -49,5 +49,5 @@ bot.variables({
   basvuru:"",
   log:"",
   kategori:"",
-  log:""
+  rol:""
 })
