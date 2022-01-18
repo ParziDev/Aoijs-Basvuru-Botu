@@ -1,0 +1,17 @@
+{
+  "name": "-asdf",
+  "version": "1.0.0",
+  "description": "Parzi & Zuzia başvuru botu",
+  "main": "zuzia.js",
+  "scripts": {
+    "start": "node zuzia.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^4.5.0"
+  }
+}
